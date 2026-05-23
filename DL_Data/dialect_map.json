@@ -1,0 +1,34 @@
+{
+  "dialect2id": {
+    "Algeria": 0,
+    "Egypt": 1,
+    "Gulf": 2,
+    "Iraq": 3,
+    "Jordan": 4,
+    "Lebanon": 5,
+    "Libya": 6,
+    "Moroccan": 7,
+    "Palestine": 8,
+    "Saudi": 9,
+    "Sudanese": 10,
+    "Syria": 11,
+    "Tunisia": 12,
+    "Yemen": 13
+  },
+  "id2dialect": {
+    "0": "Algeria",
+    "1": "Egypt",
+    "2": "Gulf",
+    "3": "Iraq",
+    "4": "Jordan",
+    "5": "Lebanon",
+    "6": "Libya",
+    "7": "Moroccan",
+    "8": "Palestine",
+    "9": "Saudi",
+    "10": "Sudanese",
+    "11": "Syria",
+    "12": "Tunisia",
+    "13": "Yemen"
+  }
+}

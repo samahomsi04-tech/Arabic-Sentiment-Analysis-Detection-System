@@ -1,0 +1,6 @@
+Config,NegPool,RegGate,AuxLoss,SupCon,Val F1,Test F1,Delta
+A: Baseline,✗,✗,✗,✗,0.9318,0.9173,+0.0000
+B: +NegPool,✓,✗,✗,✗,0.929,0.9229,+0.0056
+C: +RegionGate,✓,✓,✗,✗,0.929,0.9164,-0.0009
+D: +AuxLoss,✓,✓,✓,✗,0.9309,0.9248,+0.0075
+E: Full (SupCon),✓,✓,✓,✓,0.928,0.9201,+0.0028
