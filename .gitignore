@@ -1,0 +1,63 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# Dataset (temporary collaboration)
+# =========================
+data/
+datasets/
+*.csv
+*.xlsx
+*.json
+
+# =========================
+# Model files
+# =========================
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+
+# =========================
+# Training outputs
+# =========================
+outputs/
+results/
+runs/
+checkpoints/
+models/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE settings
+# =========================
+.vscode/
+.idea/
