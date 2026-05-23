@@ -1,6 +1,0 @@
-Perturbation,Acc,F1,F1 Drop,Drop %
-Clean (baseline),0.9266,0.9266,0.0,0.0%
-Arabic Typos,0.8524,0.8508,-0.0759,-8.2%
-Punctuation Noise,0.9211,0.921,-0.0056,-0.6%
-Character Elongation,0.9183,0.9183,-0.0084,-0.9%
-Typo + Punct (combined),0.8468,0.8447,-0.082,-8.8%
